@@ -1,0 +1,2 @@
+/home/kliu1111/code/calibration_camera/build/CMakeFiles/CameraCalibrator.dir
+/home/kliu1111/code/calibration_camera/build/CMakeFiles/calibrate.dir
